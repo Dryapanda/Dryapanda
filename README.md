@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dryapanda
 - 👀 I’m interested in coding, security & privacy.
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on open-source project's that protect people privacy in the internet.
+- 🌱 I’m currently learning ?
+- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Switzerland is known for its Alpine landscapes and holey cheeses, but its privacy laws are equally impressive.
